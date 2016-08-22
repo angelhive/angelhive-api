@@ -1,3 +1,11 @@
+/**
+ * Copyright (C) 2016, AngelHive Co.,Ltd. All Rights Reserved.
+ *
+ * Unauthorized copying of this source code, via any medium is strictly prohibited.
+ *
+ * THIS SOFTWARE IS PROPRIETARY AND CONFIDENTIAL.
+ */
+
 import winston from 'winston';
 
 winston.emitErrs = true;
